@@ -1,5 +1,9 @@
+![header](https://capsule-render.vercel.app/api?text=Seoyoon%Park&type=rounded&fontSize=50&color=eaf2f8)
+
+
 ## Hi there 👋
 
+출처: https://peachcong.tistory.com/35 [PEACHCONG:티스토리]
 <!--
 **sy00nn/sy00nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
