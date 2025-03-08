@@ -43,5 +43,4 @@
 
 ### 📞 Contact
  <a href="https://www.linkedin.com/in/seoyoon-park-9b6bb42b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- blueebada@gmail.com
+ ✉️ **blueebada@gmail.com**
