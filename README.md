@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=💭%20Seoyoon%20Park%20💭&type=rounded&fontSize=40&color=eaf2f8)
+![header](https://capsule-render.vercel.app/api?text=💭%20Seoyoon%20Park%20🐶&type=rounded&fontSize=40&color=eaf2f8)
 
 ## 👩🏻‍🎓 Education
 `2020.03-2025.02` 중앙대학교 경영학과/사이버보안 
